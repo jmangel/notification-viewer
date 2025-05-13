@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/notification-viewer/static/css/main.9563c3fd.css",
+    "main.js": "/notification-viewer/static/js/main.766295da.js",
+    "index.html": "/notification-viewer/index.html",
+    "main.9563c3fd.css.map": "/notification-viewer/static/css/main.9563c3fd.css.map",
+    "main.766295da.js.map": "/notification-viewer/static/js/main.766295da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9563c3fd.css",
+    "static/js/main.766295da.js"
+  ]
+}
